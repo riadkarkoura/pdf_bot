@@ -1,10 +1,6 @@
-streamlit
-langchain
+langchain==0.0.208
 openai
+streamlit
 huggingface_hub
 PyPDF2
 faiss-cpu
-streamlit
-langchain
-openai
-huggingface_hub
